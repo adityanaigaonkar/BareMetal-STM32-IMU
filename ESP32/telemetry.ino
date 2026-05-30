@@ -1,6 +1,4 @@
-/* =====================================================
-   BLYNK CREDENTIALS (Must be at the very top)
-===================================================== */
+
 #define BLYNK_TEMPLATE_ID "TMPL36riuFleJ"
 #define BLYNK_TEMPLATE_NAME "cubesat project aem cp"
 #define BLYNK_AUTH_TOKEN "297C3LhaSyal3PojkvzuQXcrv1Gs04d2"
